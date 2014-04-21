@@ -1,0 +1,12 @@
+RewriteEngine On
+	RewriteRule ^([^/]*)/page/([^/]*)$ /?act=$1&page=$2 [L]
+	RewriteRule ^view/([0-9]+)\/$ ?act=view&id=$1
+	RewriteRule ^user/([0-9]+)\/$ ?act=profile&id=$1
+	RewriteRule ^category/page/([0-9]+)\/$ ?act=cat&page=$1
+	RewriteRule ^category/([0-9]+)\/page/([0-9]+)$ /?act=cat&id=$1&page=$2 [L]
+	RewriteRule ^category/([0-9]+)\/$ ?act=cat&id=$1
+	RewriteRule ^category/page/([0-9]+)/\$ ?act=cat&page=$1
+	RewriteRule ^category ?act=cat [L]
+	RewriteRule ^profile ?act=profile [L]
+	RewriteRule ^blog ?act=blog [L]
+	RewriteRule ^error ?act=error [L]

@@ -1,0 +1,74 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<rss version="2.0">
+
+<channel>
+<title></title>
+<link></link>
+<description></description>
+<language>ru-ru</language>
+	
+<item>
+ <title>Lorem</title>
+ <link><a href="project.rucategory/1/ " ></a></link>
+ <description>Test text about Lorem ipsum</description>
+ <pubDate></pubDate>
+</item>
+	
+<item>
+ <title>TEST</title>
+ <link><a href="project.rucategory/2/ " ></a></link>
+ <description>orium...</description>
+ <pubDate></pubDate>
+</item>
+	
+<item>
+ <title>123</title>
+ <link><a href="project.rucategory/3/ " ></a></link>
+ <description>123</description>
+ <pubDate></pubDate>
+</item>
+	
+<item>
+ <title></title>
+ <link><a href="project.rucategory// " ></a></link>
+ <description></description>
+ <pubDate></pubDate>
+</item>
+	
+<item>
+ <title></title>
+ <link><a href="project.rucategory// " ></a></link>
+ <description></description>
+ <pubDate></pubDate>
+</item>
+	
+<item>
+ <title></title>
+ <link><a href="project.rucategory// " ></a></link>
+ <description></description>
+ <pubDate></pubDate>
+</item>
+	
+<item>
+ <title></title>
+ <link><a href="project.rucategory// " ></a></link>
+ <description></description>
+ <pubDate></pubDate>
+</item>
+	
+<item>
+ <title></title>
+ <link><a href="project.rucategory// " ></a></link>
+ <description></description>
+ <pubDate></pubDate>
+</item>
+	
+<item>
+ <title></title>
+ <link><a href="project.rucategory// " ></a></link>
+ <description></description>
+ <pubDate></pubDate>
+</item>
+
+</channel>
+</rss>
